@@ -13,9 +13,9 @@ A responsive frontend miniproject recreating the layout and styling of the Amazo
 * **Handwritten Study Notes:** Structured notes detailing HTML semantics, the CSS Box Model, and Flexbox positioning.
 
 ## 🛠️ Built With
-* **HTML5** — Semantic page markup
-* **CSS3** — Flexbox layout & custom styling
-* **VS Code** — Code editor on macOS
+* **HTML5**:- Semantic page markup
+* **CSS3**:- Flexbox layout & custom styling
+* **VS Code**:- Code editor on macOS
 
 ## 📝 Handwritten Study Notes
 * 📄 **Full Version HTML:** [View / Download Full Notes (PDF)](./docs_handwritten_notes/HTML_notes_by-AnT.pdf)
